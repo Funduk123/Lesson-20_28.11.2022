@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b03792-c567-4427-a8ab-9ceeeda97aee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/StudentsAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/StudentsFI.java" afterDir="false" />
+    <list default="true" id="35b03792-c567-4427-a8ab-9ceeeda97aee" name="Changes" comment="Complete">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cab5b7bb-3a08-43de-927d-02410b965205.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/cab5b7bb-3a08-43de-927d-02410b965205.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +69,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669972823584</updated>
-      <workItem from="1669972824856" duration="21534000" />
+      <workItem from="1669972824856" duration="21984000" />
     </task>
+    <task id="LOCAL-00001" summary="Complete">
+      <created>1670007931996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670007931996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete" />
   </component>
 </project>
